@@ -117,8 +117,8 @@ I researched how Git handles authentication and learned that I needed to configu
 I executed:
 
 ```bash
-git config --global user.name "your-github-username"
-git config --global user.email "your-email"
+git config --global user.name "my-github-username"
+git config --global user.email "my-email"
 
 ---
 
