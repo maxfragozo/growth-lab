@@ -119,6 +119,7 @@ I executed:
 ```bash
 git config --global user.name "my-github-username"
 git config --global user.email "my-email"
+```
 
 ---
 
