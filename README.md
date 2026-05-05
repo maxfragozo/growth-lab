@@ -106,6 +106,34 @@ This helped me understand the full cycle rather than just completing the task.
 
 ---
 
+### Configuring Git Identity for Commits
+
+**Challenge:**  
+When attempting to commit and push changes from Cursor to GitHub, Git required user identity configuration.
+
+**Solution:**  
+I researched how Git handles authentication and learned that I needed to configure my global username and email.
+
+I executed:
+
+```bash
+git config --global user.name "your-github-username"
+git config --global user.email "your-email"
+
+---
+
+## Additional Setup & Troubleshooting
+
+### Using AI to Support the Process
+
+Throughout the setup, I relied on AI tools to troubleshoot issues and accelerate learning, including:
+- Cursor’s built-in AI (Claude Code and Codex)
+- ChatGPT
+
+These tools helped me clarify concepts, debug issues, and understand how different components of the workflow interact.
+
+---
+
 ## Key Takeaways
 
 - AI tools like Cursor significantly reduce friction in building and iterating  
