@@ -9,11 +9,11 @@ How are leading SEO practitioners using AI to produce scalable content while mai
 ---
 
 ## Selected Experts
-Ross Simmonds
-Neil Patel
-Koray Tuğberk GÜBÜR
-Bernard Huang
-Keving Indig
-Eli Schwartz
-Gael Breton
+Ross Simmonds,
+Neil Patel,
+Koray Tuğberk GÜBÜR,
+Bernard Huang,
+Keving Indig,
+Eli Schwartz,
+Gael Breton,
 Rand Fishkin
